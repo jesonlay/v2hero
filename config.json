@@ -1,0 +1,25 @@
+{
+"log":{
+  "access":"",
+  "error":"",
+  "loglevel":"warning"
+},
+"inbound":{
+  "protocol":"vmess",
+  "port":"443",
+  "settings":{
+    "clients":[{
+       "id":"486f9908-aeac-4944-b5af-e82119e4b41a",
+       "alterId":64
+      }]
+   },
+  "streamSettings":{
+    "network":"ws"
+   }
+  },
+  "inboundDetour":[],
+  "outbound":{
+    "protocol":"freedom",
+    "settings":{}
+  }
+  }
