@@ -6,7 +6,7 @@
 },
 "inbound":{
   "protocol":"vmess",
-  "port":"443",
+  "port":"80",
   "settings":{
     "clients":[{
        "id":"486f9908-aeac-4944-b5af-e82119e4b41a",
